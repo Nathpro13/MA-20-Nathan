@@ -13,8 +13,8 @@ coups = 0
 # Tableau 2 dimensions des valeurs des tuiles.
 
 numbers= [[0, 0, 0, 0],
-          [0, 2, 2, 0],
-          [0, 2, 2, 0],
+          [0, 2, 0, 0],
+          [0, 0, 2, 0],
           [0, 0, 0, 0],]
 
 #numbers= [[2, 4, 8, 16],
